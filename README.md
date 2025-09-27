@@ -55,6 +55,11 @@ john --show myhashes.txt
 
 ## OUTPUT:
 Cracked Passwords from Hash File
+<img width="900" height="385" alt="image" src="https://github.com/user-attachments/assets/b9bac1ba-afb6-4e5d-b288-e6f8afa68c5b" />
+<img width="1279" height="595" alt="image" src="https://github.com/user-attachments/assets/c3f31274-d2b8-4839-86d5-b2b57d69387b" />
+<img width="1167" height="546" alt="image" src="https://github.com/user-attachments/assets/e96d94b2-a1e3-48e2-8ab9-4bb90bfc8cf9" />
+<img width="1242" height="641" alt="image" src="https://github.com/user-attachments/assets/9488f2a8-dc38-4080-9e05-b920948c1cc9" />
+<img width="866" height="385" alt="image" src="https://github.com/user-attachments/assets/b26c571f-4a70-4ed0-969d-34e693f57cdd" />
 
 ## RESULT:
 The password hashes were successfully cracked using John the Ripper.
